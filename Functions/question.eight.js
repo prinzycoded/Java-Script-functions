@@ -3,5 +3,5 @@ function multiplicationTable(n) {
     console.log(num + " x " + i + " = " + (num * i));
   }
 }
-const num = 5; // You can change this to any number you want
+const num = 3; // You can change this to any number you want
 multiplicationTable(num);
