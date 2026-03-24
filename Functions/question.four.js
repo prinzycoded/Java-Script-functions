@@ -7,3 +7,5 @@ function sumOneToN(n) {
 
   return total;
 }
+console.log(sumOneToN(5)); // 15
+console.log(sumOneToN(10)); // 55
